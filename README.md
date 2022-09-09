@@ -1,2 +1,2 @@
-# ESIEE-IT-Pythpn
+# ESIEE-IT-Python
 Coding in Python 
